@@ -26,7 +26,7 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Computational Semantics
-- Psycholingsuitics
+- Psycholinguistics
 
 education:
   courses:

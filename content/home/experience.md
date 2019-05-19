@@ -26,38 +26,41 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 I develop a full suite of Natural Language Processing algorithms, focusing on integrating symbolic and data-driven approaches to push the boundaries and extend the language understanding and cognitive capacities of our domain expert conversational agent.
-  """
+"""
 
 [[experience]]
   title = "PhD Candidate"
-  university = "University of Southern California"
+  company = "University of Southern California"
   company_url = ""
-  location = "California"
+  location = "Los Angeles, CA"
   date_start = "2010-08-01"
   date_end = "2017-09-01"
   description = """
 PhD in computational neuroscience, under the direction of Dr. Michael Arbib.
 
 topics: 
-	* modeling language-vision interactions during online comprehension and production of scene descriptions, 
-	* design of a new computational construction grammar (Template Construction Grammar)
+
+* modeling language-vision interactions during online comprehension and production of scene descriptions 
+
+* design of a new computational construction grammar (Template Construction Grammar)
 """
 
 [[experience]]
   title = "TA for CS 564: Brain Theory and Artificial Intelligence"
-  university = "USC Viterbi School of Engineering"
+  company = "USC Viterbi School of Engineering"
   company_url = ""
-  location = "California"
+  location = "Los Angeles, CA"
   date_start = "2013-01-01"
   date_end = "2015-06-01"
   #description = """ """
 
 [[experience]]
   title = "TA for CS 544: Applied Natural Language Processing"
-  university = "USC Viterbi School of Engineering"
+  company = "USC Viterbi School of Engineering"
   company_url = ""
-  location = "California"
+  location = "Los Angeles, CA"
   date_start = "2013-01-01"
   date_end = "2013-06-01"
   description = """http://www.isi.edu/natural-language/teaching/cs544/"""
+
 +++
