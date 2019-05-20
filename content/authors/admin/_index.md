@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Experienced NLP/AI scientist focusing on conversational agents, semantic-oriented computational models, and cognitive architectures. Dedicated to integrating NLP and cognitive neuroscience computational approaches to develop new paradigms for solving language related A.I. problems.
+NLP/AI scientist focusing on conversational agents, semantic-oriented computational models, and cognitive architectures. Dedicated to integrating NLP and cognitive neuroscience computational approaches to develop new paradigms for solving language related A.I. problems.

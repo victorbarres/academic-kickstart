@@ -38,7 +38,9 @@ I develop a full suite of Natural Language Processing algorithms, focusing on in
   description = """
 PhD in computational neuroscience, under the direction of Dr. Michael Arbib.
 
-topics: 
+Dissertation: Schema architecture for language-vision interactions: a computational cognitive neuroscience model of language use.
+
+Topics: 
 
 * modeling language-vision interactions during online comprehension and production of scene descriptions 
 
